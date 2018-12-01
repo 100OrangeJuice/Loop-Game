@@ -23,8 +23,14 @@
 选词原因：我喜欢风景好的地方//不知道哪里有鲨鱼呢~
 ```
 
+## Ⅳ.菲律宾
+
+```
+选词原因：与其了解各个岛屿不如去了解这一整个国家。
+```
+
 
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  —>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  —>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——> [菲律宾]( https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93) ———>
