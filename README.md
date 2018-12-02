@@ -107,9 +107,17 @@
 >
 > 许多日本的七夕庆祝活动在7月举行，但有时在8月举行。如果下雨，雨滴会被认为是七夕的眼泪，因为牵牛不能与她会面。有时流星雨也被认为是七夕的眼泪。
 
+## Ⅺ.竖琴 
+
+**`Q`** 选词原因：欣赏着深邃静谧的星空，再来一段轻柔舒缓的音乐~
+
+**`无聊随笔`**：不管是古希腊与古罗马的里拉琴还是古埃及的贝尼琴，都和中国的箜篌相似度很高，不知道是东西方文化交流所导致的，还是古代先贤的心有灵犀呢？（笑）
+
+> 竖琴，是一种大型拨弦乐器，是现代管弦乐团的重要乐器之一。竖琴可作独奏、重奏和合奏，属多功能的复音乐器。其流传地区甚广，在欧洲、美洲和亚洲等地区亦有出现竖琴类的乐器。竖琴在古埃及称为贝尼琴，古希腊和古罗马称为里拉琴，中国又有一种称之为箜篌的竖琴。  
+
 
 
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>
