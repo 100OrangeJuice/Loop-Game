@@ -85,15 +85,31 @@
 > [亚美尼亚](https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E)神话称银河系为 **麦秆贼之路** 。一位神在偷了麦秆，企图逃走。结果半路掉了一些麦秆。
 > 在**中国神话**中银河则是王母娘娘头上的金簪一挥而形成的天河。天河阻隔了牛郎和织女。
 
-## Ⅷ.武仙座
+## Ⅸ.武仙座
 
 **`Q`** 选词原因：Berserker是最强的！！！
+
+**`A`**吐槽：明明是[海格力斯](https://zh.wikipedia.org/wiki/%E6%B5%B7%E6%A0%BC%E5%8A%9B%E6%96%AF)吸了天后赫拉的奶。所有你才选他的吧，奶瓜子←_←
 
 **`无聊随笔`**：历经十二试炼的赫拉克勒斯最终成为了夜空中灿然闪耀的星座，但这一切真的值得吗？我个人是觉得平凡或许也是一种幸福。
 
 > 在[希腊神话](https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E7%A5%9E%E8%A9%B1)，海格力斯接受[迈锡尼](https://zh.wikipedia.org/wiki/%E8%BF%88%E9%94%A1%E5%B0%BC)国王尤里斯修斯的命令，执行十二项艰难的任务，其中两项分别是杀狮（[狮子座](https://zh.wikipedia.org/wiki/%E7%8D%85%E5%AD%90%E5%BA%A7)）和杀龙（[天龙座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%BE%99%E5%BA%A7)），所以在星空中武仙座的右膝着地，左脚就踩在[天龙座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%BE%99%E5%BA%A7)的头上。
 
 
+
+## Ⅹ.天琴座
+
+**`A`** 选词原因：天琴座的主星[织女星](https://zh.wikipedia.org/wiki/%E7%BB%87%E5%A5%B3%E6%98%9F)是“[夏季大三角](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3%E5%A4%A7%E4%B8%89%E8%A7%92)”的顶点之一。没错，对夏季大三角很感兴趣。
+
+**`安酱摘录`**：
+
+> 在日本的神话中，原产于中国的七夕节，织女星有时被称为七夕（或公主）
+>
+> 许多日本的七夕庆祝活动在7月举行，但有时在8月举行。如果下雨，雨滴会被认为是七夕的眼泪，因为牵牛不能与她会面。有时流星雨也被认为是七夕的眼泪。
+
+
+
+
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>[米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——>[武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  
