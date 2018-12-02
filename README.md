@@ -9,6 +9,8 @@
 
 `A: 安酱`
 
+`Q:钦原`
+
 
 
 ----
@@ -29,7 +31,7 @@
 
 ## Ⅲ. 米沙鄢群岛
 
-选词原因：我喜欢风景好的地方//不知道哪里有鲨鱼呢~
+**`Q`** 选词原因：我喜欢风景好的地方//不知道哪里有鲨鱼呢~
 
 
 
@@ -49,7 +51,7 @@
 
 ## Ⅴ.麦哲伦
 
-选词原因：麦哲伦环航地球的事很有名呢（不过他本人并没有成功的环航地球一周……）
+**`Q`** 选词原因：麦哲伦环航地球的事很有名呢（不过他本人并没有成功的环航地球一周……）
 
 
 
@@ -64,7 +66,7 @@
 
 ## Ⅶ.星云
 
-选词原因：可能是受到小时候看的奥特曼的影响吧（笑）
+**`Q`** 选词原因：可能是受到小时候看的奥特曼的影响吧（笑）
 
 **`无聊随笔`** ：万物生于有而归于无，有生于无。
 
@@ -72,7 +74,7 @@
 
 ## Ⅷ.银河系
 
-选词原因：看过各种美丽的星云，接下来去银河系漫游。
+**`A`** 选词原因：看过各种美丽的星云，接下来去银河系漫游。
 
 **`安酱摘录`**：各个国家关于银河的神话都很有趣。
 
@@ -83,9 +85,15 @@
 > [亚美尼亚](https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%BE%8E%E5%B0%BC%E4%BA%9E)神话称银河系为 **麦秆贼之路** 。一位神在偷了麦秆，企图逃走。结果半路掉了一些麦秆。
 > 在**中国神话**中银河则是王母娘娘头上的金簪一挥而形成的天河。天河阻隔了牛郎和织女。
 
+## Ⅷ.武仙座
 
+**`Q`** 选词原因：Berserker是最强的！！！
+
+**`无聊随笔`**：历经十二试炼的赫拉克勒斯最终成为了夜空中灿然闪耀的星座，但这一切真的值得吗？我个人是觉得平凡或许也是一种幸福。
+
+> 在[希腊神话](https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%87%98%E7%A5%9E%E8%A9%B1)，海格力斯接受[迈锡尼](https://zh.wikipedia.org/wiki/%E8%BF%88%E9%94%A1%E5%B0%BC)国王尤里斯修斯的命令，执行十二项艰难的任务，其中两项分别是杀狮（[狮子座](https://zh.wikipedia.org/wiki/%E7%8D%85%E5%AD%90%E5%BA%A7)）和杀龙（[天龙座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%BE%99%E5%BA%A7)），所以在星空中武仙座的右膝着地，左脚就踩在[天龙座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%BE%99%E5%BA%A7)的头上。
 
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>[米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——>
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>[米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——>[武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>
