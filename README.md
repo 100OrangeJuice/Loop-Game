@@ -127,9 +127,15 @@
 
 > 圣经经历长时间的编辑，横跨千年的撰写，借由不同时空背景的人物之笔手，用预言、科学、历史讲述人类所居住的星球，告知未来的世界.
 
+## ⅩⅢ.创世纪
 
+**`Q`** 选词原因：读书当然要从头开始。
+
+**`无聊随笔`**：包括**《圣经.创世纪》** 在内的许多不同国家的创世神话中都不约而同的出现了相近的描述，比如大洪水之类的灾难，这是否意味着这些神话中隐含着某些真实？若果真如此，那么又有多少神话是被时间隐去的真相呢？
+
+> 由于地上继续充满强暴，败坏不堪，耶和华遂向诺亚透露，他将会降下一场[洪水](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B4%AA%E6%B0%B4)以洗雪自己的圣名。此外他也吩咐诺亚建造一只[方舟](https://zh.wikipedia.org/wiki/%E8%AB%BE%E4%BA%9E%E6%96%B9%E8%88%9F)去保全性命，并且向他颁下一切建造的细节。诺亚立即遵嘱而行，最后将他一家八口和若干走兽、飞鸟召集在方舟之内。在他600岁的那年（公元前2370年），洪水开始降下。洪水继续倾下40日，直至把最高的山也淹盖在15肘尺（约22英尺）的水下。经过一年之后，诺亚终于能够带领家人步出方舟，他所做的第一件事便是向耶和华献上感恩的大祭。
 
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——>
