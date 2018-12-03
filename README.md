@@ -127,7 +127,7 @@
 
 > 圣经经历长时间的编辑，横跨千年的撰写，借由不同时空背景的人物之笔手，用预言、科学、历史讲述人类所居住的星球，告知未来的世界.
 
-## ⅩⅢ.创世纪
+## XIII.创世纪
 
 **`Q`** 选词原因：读书当然要从头开始。
 
@@ -135,7 +135,44 @@
 
 > 由于地上继续充满强暴，败坏不堪，耶和华遂向诺亚透露，他将会降下一场[洪水](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B4%AA%E6%B0%B4)以洗雪自己的圣名。此外他也吩咐诺亚建造一只[方舟](https://zh.wikipedia.org/wiki/%E8%AB%BE%E4%BA%9E%E6%96%B9%E8%88%9F)去保全性命，并且向他颁下一切建造的细节。诺亚立即遵嘱而行，最后将他一家八口和若干走兽、飞鸟召集在方舟之内。在他600岁的那年（公元前2370年），洪水开始降下。洪水继续倾下40日，直至把最高的山也淹盖在15肘尺（约22英尺）的水下。经过一年之后，诺亚终于能够带领家人步出方舟，他所做的第一件事便是向耶和华献上感恩的大祭。
 
+**`安酱摘录`**：
+
+> ### 人类堕落的四部曲
+> 1. 知识善恶树的果子：夏娃与莉莉丝.
+> 2. 嫉妒与谋杀/农业民族与游牧民族的世仇：该隐与亚伯
+> 3. 苏美神话与大洪水：拿非利人与挪亚
+> 4. 巴比伦通天塔：宁录的后裔
+>
+
+
+
+## XIV.夏娃与莉莉丝
+
+**`A`** 选词原因：因为莉莉丝的条目爆点特别多，太有趣了。
+
+**`安酱摘录`**：难怪跟莉莉丝有关的东西总是这么色情
+
+> ### 莉莉斯
+>
+> （莉丽丝，[希伯来语](https://zh.wikipedia.org/wiki/%E5%B8%8C%E4%BC%AF%E4%BE%86%E8%AA%9E)：לִּילִית‎，Lilith）最早出现于[苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94)神话，亦同时记载于[犹太教](https://zh.wikipedia.org/wiki/%E7%8A%B9%E5%A4%AA%E6%95%99)的[拉比](https://zh.wikipedia.org/wiki/%E6%8B%89%E6%AF%94)文学。在这些文学中，她被指为[亚当](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93)的第一个妻子，由[上帝](https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%9D)用[泥土](https://zh.wikipedia.org/wiki/%E6%B3%A5%E5%9C%9F)所造。因不愿雌伏在亚当身下而离开[伊甸园](https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%94%B8%E5%9C%92)。她也被记载为[撒但](https://zh.wikipedia.org/wiki/%E6%92%92%E4%BD%86)的情人、夜之魔女，也是法力高强的[女巫](https://zh.wikipedia.org/wiki/%E5%A5%B3%E5%B7%AB)
+
+> ### 莉莉丝与夏娃
+>
+> 犹太教文献《[便西拉的字母](https://zh.wikipedia.org/wiki/%E4%BE%BF%E8%A5%BF%E6%8B%89%E7%9A%84%E5%AD%97%E6%AF%8D)》则记载世界上第一个女人是[莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E4%B8%9D)，是亚当的第一个妻子，并且是由[耶和华](https://zh.wikipedia.org/wiki/%E8%80%B6%E5%92%8C%E8%8F%AF)用泥土所造
+> [希伯来圣经](https://zh.wikipedia.org/wiki/%E5%B8%8C%E4%BC%AF%E4%BE%86%E8%81%96%E7%B6%93)所记载亚当的第一个妻子是夏娃
+
+> **肋骨？阴茎骨！**
+>
+> [上帝](https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%9D)取[亚当](https://zh.wikipedia.org/wiki/%E4%BA%9E%E7%95%B6)身上的“[肋骨](https://zh.wikipedia.org/wiki/%E8%82%8B%E9%AA%A8)[[1\]](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%A8%83#cite_note-1)”造成的[女人](https://zh.wikipedia.org/wiki/%E5%A5%B3%E4%BA%BA)夏娃。
+> 其中的肋骨其实是[阴茎骨](https://zh.wikipedia.org/wiki/%E9%99%B0%E8%8E%96%E9%AA%A8)，因为人类是唯一没有该构造的哺乳类。希伯来语原版圣经就写的也是阴茎骨，翻译成拉丁文时译者写成了肋排条。
+
+> ### 夜魔女的传说
+>
+> 一些残留着的莉莉斯传说，莉莉斯的女儿们统称为Lilim，中世纪的人们认为Lilim是好色的女妖，专门在晚上出现于男性的梦中和他们性交，吸取他们灵魂的精髓（精液），以这个故事来解释梦遗的现象。[基督教](https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99)徒则将Lilim称为“地狱的娼妇”，是和梦魇Incubus（一种梦中精灵）相对应的女妖Succubus，宣称她们用男性体液制造新的女妖。而Succubus也称为女神Brizo（名字来自brizein－“利用[魔法](https://zh.wikipedia.org/wiki/%E9%AD%94%E6%B3%95)”），Brizo携带有[预言](https://zh.wikipedia.org/wiki/%E9%A2%84%E8%A8%80)之梦－即现在所说的春梦。传说这些虔诚的基督徒尴尬地梦遗时，莉莉斯会取笑他们。现今，如果男孩在睡觉中笑，也认为是得到了莉莉斯的爱抚。
+>
+> 而为了供养血之[海](https://zh.wikipedia.org/wiki/%E6%B5%B7)，莉莉斯也被描绘成夜间吞食婴儿的[魔女](https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3)。在[卡巴拉](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B7%B4%E6%8B%89)的经典《光辉之书》中，莉莉斯被称为诱惑人类和扼杀婴儿的[恶魔](https://zh.wikipedia.org/wiki/%E6%81%B6%E9%AD%94)。为此，犹太人在婴儿的摇篮外围用[白色](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2)涂料画上几圈圆圈以作保护，也为婴儿挂上护身符－上面写有上帝派遣追回莉莉斯的三位[天使](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF)名字，但这不总有效，因为传说莉莉斯的能力强于天使。
+
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——>
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  
