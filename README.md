@@ -176,6 +176,8 @@
 >
 > 而为了供养血之[海](https://zh.wikipedia.org/wiki/%E6%B5%B7)，莉莉斯也被描绘成夜间吞食婴儿的[魔女](https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3)。在[卡巴拉](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B7%B4%E6%8B%89)的经典《光辉之书》中，莉莉斯被称为诱惑人类和扼杀婴儿的[恶魔](https://zh.wikipedia.org/wiki/%E6%81%B6%E9%AD%94)。为此，犹太人在婴儿的摇篮外围用[白色](https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2)涂料画上几圈圆圈以作保护，也为婴儿挂上护身符－上面写有上帝派遣追回莉莉斯的三位[天使](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF)名字，但这不总有效，因为传说莉莉斯的能力强于天使。
 
+
+
 ## XV.苏美尔
 
 **`Q`** 选词原因：因为游戏接触过一些苏美尔神话，所以有点兴趣，“全世界最早产生的[文明](https://zh.wikipedia.org/wiki/%E6%96%87%E6%98%8E)”之一啊，当时的人们过的怎么样呢？
@@ -183,8 +185,6 @@
 **`无聊随笔`**：诸神已隐于天空，大地终将归于人类。EnûmaEliš！（被拖走~）
 
 >**苏美尔**（[阿卡德语](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E5%BE%B7%E8%AA%9E)：Šumeru；[苏美尔语](https://zh.wikipedia.org/wiki/%E8%98%87%E7%BE%8E%E8%AA%9E)：𒆠𒂗𒂠，ki-en-ĝir15）为目前发现于[美索不达米亚文明](https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%B4%A2%E4%B8%8D%E8%BE%BE%E7%B1%B3%E4%BA%9A%E6%96%87%E6%98%8E)中最早的[文明](https://zh.wikipedia.org/wiki/%E6%96%87%E6%98%8E)体系，同时也是“全世界最早产生的[文明](https://zh.wikipedia.org/wiki/%E6%96%87%E6%98%8E)”之一。苏美尔文明主要位于美索不达米亚的南部，通过放射性[碳十四](https://zh.wikipedia.org/wiki/%E7%A2%B3%E5%8D%81%E5%9B%9B)的断代测试，表明苏美尔文明的开端可以追溯至公元前4500年。在约公元前2000年结束，被[亚摩利](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%91%A9%E5%88%A9)人建立的[巴比伦](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%AF%94%E4%BC%A6)所代替。这里发现的含有[楔形文字](https://zh.wikipedia.org/wiki/%E6%A5%94%E5%BD%A2%E6%96%87%E5%AD%97)前文字的最古老的石板被定期为距今约56世纪前。
-
-
 
 > ## 背景
 >
@@ -195,6 +195,28 @@
 > 苏美尔语在[语言学](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E5%AD%A6)中是一个[孤立语言](https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%AB%8B%E8%AF%AD%E8%A8%80)，它不属于任何[语族](https://zh.wikipedia.org/wiki/%E8%AF%AD%E6%97%8F)。而[阿卡德语](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E5%BE%B7%E8%AF%AD)属于[闪含语系](https://zh.wikipedia.org/wiki/%E9%97%AA%E5%90%AB%E8%AF%AD%E7%B3%BB)。新的观点中，苏美尔语在某些时候与[中国](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B)的[汉藏语系](https://zh.wikipedia.org/wiki/%E6%BC%A2%E8%97%8F%E8%AA%9E%E7%B3%BB)归纳同于[得内-高加索语系](https://zh.wikipedia.org/wiki/%E5%BE%97%E5%86%85-%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)。 
 
 
+
+## XVI.军事
+
+**`A`** 选词原因：差不多该回到最初的起点了。
+
+**`安酱摘录`**：怎么没有看 Wiki 列出国外对军事相关的著名书籍呢？
+
+> ### 西方对军事的定义，和军事与战争的区别
+>
+> 西方对军事史的概念会视为是所有冲突的历史，不是各国家军事力量的历史。军事史和战争史不同，军事史强调的是不同时期有关军事的人员及制度，而战争史着重的是在技术变化下，对战争的演变，以及对政府、国际的影响。
+
+> ## 军事理论
+>
+> 主条目：[兵法](https://zh.wikipedia.org/wiki/%E5%85%B5%E6%B3%95)
+>
+> 是研究战争如何取得胜利的理论。内容有包括研究历史上的各大战役。
+>
+> 中国把这类研究如何在作战中获得胜利的理论书籍称呼为兵法。著名的兵法有《[孙子兵法](https://zh.wikipedia.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95)》、《[吴子兵法](https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AD%90%E5%85%B5%E6%B3%95)》、《[唐太宗李卫公问对](https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E5%8D%AB%E5%85%AC%E9%97%AE%E5%AF%B9)》、《[孙膑兵法](https://zh.wikipedia.org/wiki/%E5%AD%AB%E8%87%8F%E5%85%B5%E6%B3%95)》、《[六韬](https://zh.wikipedia.org/wiki/%E5%85%AD%E9%9F%9C)》等。
+
+
+
+
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>  [军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B)  ——>  
