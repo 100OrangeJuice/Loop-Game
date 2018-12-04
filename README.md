@@ -214,9 +214,27 @@
 >
 > 中国把这类研究如何在作战中获得胜利的理论书籍称呼为兵法。著名的兵法有《[孙子兵法](https://zh.wikipedia.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95)》、《[吴子兵法](https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AD%90%E5%85%B5%E6%B3%95)》、《[唐太宗李卫公问对](https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E5%8D%AB%E5%85%AC%E9%97%AE%E5%AF%B9)》、《[孙膑兵法](https://zh.wikipedia.org/wiki/%E5%AD%AB%E8%87%8F%E5%85%B5%E6%B3%95)》、《[六韬](https://zh.wikipedia.org/wiki/%E5%85%AD%E9%9F%9C)》等。
 
+## XVII.枪械
+
+**`Q`** 选词原因：既然你要回去那就回去好了。
+
+**`无聊随笔`**：人类发明了枪械以及更高效率的武器，并把它们对准了同类，等等！是不是哪里搞错了？
+
+> 「我打造這個武器，是要捍衛祖國的疆域。武器被用在不該用的地方，並不是我的錯。這是政治人物的錯。」
+>
+> ——[米哈伊尔·季莫费耶维奇·卡拉什尼科夫](https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E5%8D%A1%E6%8B%89%E4%BB%80%E5%B0%BC%E7%A7%91%E5%A4%AB)
+
+> 孫子曰：凡用兵之法，全國為上，破國次之；全軍為上，破軍次之；全旅為上，破旅次之；全卒為上，破卒次之；全伍為上，破伍次之。是故百戰百勝，非善之善者也；不戰而屈人之兵，善之善者也。 
+>
+> 故上兵伐謀，其次伐交，其次伐兵，其下攻城。攻城之法，為不得已。修櫓轒轀，具器械，三月而後成；距闉，又三月而後已。將不勝其忿，而蟻附之，殺士三分之一，而城不拔者，此攻之災也。 
+>
+> 故善用兵者，屈人之兵而非戰也，拔人之城而非攻也，毀人之國而非久也，必以全爭於天下，故兵不頓而利可全，此謀攻之法也。 
+>
+> ——《[孙子兵法.谋攻](https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95#%E8%AC%80%E6%94%BB%E7%AC%AC%E4%B8%89)》
+
 
 
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>  [军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B)  ——>  
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>  [军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B)  ——>  [枪械](https://zh.wikipedia.org/wiki/%E6%9E%AA%E6%A2%B0) ——>
