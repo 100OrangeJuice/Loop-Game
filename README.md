@@ -218,6 +218,8 @@
 
 **`Q`** 选词原因：既然你要回去那就回去好了。
 
+**`A`**吐槽：最开始就是这么定的好吧，回到起点才算一个循环结束。为了不弄太长限制在 20 回以内。
+
 **`无聊随笔`**：人类发明了枪械以及更高效率的武器，并把它们对准了同类，等等！是不是哪里搞错了？
 
 > 「我打造這個武器，是要捍衛祖國的疆域。武器被用在不該用的地方，並不是我的錯。這是政治人物的錯。」
@@ -234,7 +236,15 @@
 
 
 
+## XVIII.手枪
+
+**`A`** 选词原因：差不多就要结束了。
+
+**`安酱摘录`**：手枪主要用于自卫呢，对手枪兴趣并不大。
+
+> **手枪**（**Handgun**），旧时也称**手铳**、**拳铳**[[1\]](https://zh.wikipedia.org/wiki/%E6%89%8B%E6%9E%AA#cite_note-1)，是一类可以单手持握射击的小型短[管](https://zh.wikipedia.org/wiki/%E6%A7%8D%E7%AE%A1)[枪械](https://zh.wikipedia.org/wiki/%E6%A7%8D%E6%A2%B0)，多用于近战和自卫，发射[手枪弹](https://zh.wikipedia.org/wiki/%E6%89%8B%E6%A7%8D%E5%AD%90%E5%BD%88%E5%88%97%E8%A1%A8)，一般有效杀伤距离约50米。实际应用中，手枪大多由警察执勤时配带，在军队中，手枪除配发[军官](https://zh.wikipedia.org/wiki/%E8%BB%8D%E5%AE%98)或至少[士官](https://zh.wikipedia.org/wiki/%E5%A3%AB%E5%AE%98)等具有指挥职主官管理人员外，大多都由空军飞行员、海军舰艇警卫、陆军炮兵等特业军人配带，携带的目的并非因为杀伤力，而是便于自卫及反击。
+
 
 ### Loop Line
 
-[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>  [军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B)  ——>  [枪械](https://zh.wikipedia.org/wiki/%E6%9E%AA%E6%A2%B0) ——>
+[SIG M1911手枪](https://zh.wikipedia.org/wiki/SIG_M1911%E6%89%8B%E6%A7%8D)  ——>  [美菲战争](https://zh.wikipedia.org/wiki/%E7%BE%8E%E8%8F%B2%E6%88%98%E4%BA%89)  ——>  [米沙鄢群岛](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%B2%99%E9%84%A2%E7%BE%A4%E5%B3%B6)  ——> [菲律宾](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E5%AE%BE)  ——>  [麦哲伦](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB) ——> [麦哲伦云](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%93%B2%E5%80%AB%E9%9B%B2)  ——>  [星云](https://zh.wikipedia.org/wiki/%E6%98%9F%E4%BA%91) ——>  [银河系](https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E7%B3%BB)  ——> [武仙座](https://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BB%99%E5%BA%A7) ——>  [天琴座](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%B4%E5%BA%A7)  ——>  [竖琴](https://zh.wikipedia.org/wiki/%E8%B1%8E%E7%90%B4) ——>  [圣经](https://zh.wikipedia.org/wiki/%E8%81%96%E7%B6%93)  ——>  [创世纪](https://zh.wikipedia.org/wiki/%E5%89%B5%E4%B8%96%E8%A8%98)  ——> [莉莉丝](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%E6%96%AF)  ——>  [苏美尔](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BE%8E%E5%B0%94) ——>  [军事](https://zh.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B)  ——>  [枪械](https://zh.wikipedia.org/wiki/%E6%9E%AA%E6%A2%B0)  ——>  [手枪](https://zh.wikipedia.org/wiki/%E6%89%8B%E6%9E%AA)  ——> 
