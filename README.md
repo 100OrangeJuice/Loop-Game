@@ -16,4 +16,4 @@
 
 ## Ⅱ. [Loop Line](first-loop.md)  萌娘百科
 
-[ZUN](https://zh.moegirl.org/ZUN#)  ——> 
+[ZUN](https://zh.moegirl.org/ZUN#)  ——> [东方红魔乡](https://zh.moegirl.org/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%AD%94%E4%B9%A1#) ——>
